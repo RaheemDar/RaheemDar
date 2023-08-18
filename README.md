@@ -1,0 +1,5 @@
+- 👋 Hey, RaheemDar here
+- 👀 I have an interest in coding 
+- 🌱 I’m currently learning Python 
+- 💞️ I'm currently looking to collaborate on basic project 
+- 📫 You can reach me via email raheemdar7890@gmail.com 
