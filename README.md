@@ -74,8 +74,8 @@ An AI-powered job assistance platform featuring:
 ---
 
 ## 📫 Connect With Me
-- GitHub: **@your-username**
-- Email: your.email@example.com
+- GitHub: **@RaheemDar**
+- Email: RaheemDar456@gmail.com
 
 ---
 
