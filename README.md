@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DAR
+# 👋 Hi, I'm Abdur Raheem Dar
 
 🚀 Full-Stack Developer | 💻 C++ & Web Technologies | 🧠 Problem Solver
 
