@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdur Raheem Dar
 
-🚀 Full-Stack Developer | 💻 C++ & Web Technologies | 🧠 Problem Solver
+🚀 Full-Stack Developer | 💻 C++ & Web Technologies | 🧠 Problem Solver | 🧠 AI/ML Engineer
 
 I’m a developer focused on building **real-world, production-ready applications** — not just demos.  
 I enjoy working across the stack, designing clean APIs, writing maintainable code, and solving practical problems.
